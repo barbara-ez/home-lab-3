@@ -35,7 +35,7 @@
 
    Array.prototype.search = function(targetValue)
 	{
-	        var array=[1,2,3,4];
+	       
             var min = 0;
             var max = this.length-1;
             var index=-1;
